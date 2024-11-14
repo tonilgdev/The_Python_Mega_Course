@@ -10,9 +10,8 @@
 
 # Did you know?
 
--Python got his name not from the snake, but from Monty Python's Flying Circus, a favorite comedy series of Guido van Rossum, the creator of Python.
-
- - Did you know that Python was first released in 1991? Python 2 was released in 2000, and Python 3 (the current version) in 2008.
+- Python got his name not from the snake, but from Monty Python's Flying Circus, a favorite comedy series of Guido van Rossum, the creator of Python.
+- Did you know that Python was first released in 1991? Python 2 was released in 2000, and Python 3 (the current version) in 2008.
 
 
 # Cheatsheet: Data Types
