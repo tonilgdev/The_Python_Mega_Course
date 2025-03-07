@@ -51,7 +51,7 @@ length = len(student_grades)
 mean = mysum/length
 print(mean)
 
-#TUples (They arte inmutables, The are faster than lists)
+#TUples (They are inmutables, The are faster than lists)
 
 monday_temperatures = (1,4,5)
 print(monday_temperatures)
