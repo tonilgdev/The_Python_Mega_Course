@@ -16,5 +16,5 @@
 - [X] Section 11: File Processing
 - [X] Section 12: Modules
 - [X] Section 13: Using Python with CSV, JSON and Excel Files
-- [] Section 14: Numerical and Scientific Computing with Python and Numpy
+- [X] Section 14: Numerical and Scientific Computing with Python and Numpy
 - [] Section 15: App 1, Web Mapping with Python: Interactive Mapping of Population and Volcanoes
