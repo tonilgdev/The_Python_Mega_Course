@@ -18,3 +18,4 @@
 - [X] Section 13: :beginner: Using Python with CSV, JSON and Excel Files
 - [X] Section 14: :beginner: Numerical and Scientific Computing with Python and Numpy
 - [X] Section 15: :fire: App 1, Web Mapping with Python: Interactive Mapping of Population and Volcanoes
+- [X] Section 16: :beginner: Fixing Programming errors
