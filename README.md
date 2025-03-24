@@ -19,3 +19,4 @@
 - [X] Section 14: :beginner: Numerical and Scientific Computing with Python and Numpy
 - [X] Section 15: :fire: App 1, Web Mapping with Python: Interactive Mapping of Population and Volcanoes
 - [X] Section 16: :beginner: Fixing Programming errors
+- [X] Section 17: :beginner: Image and Video Processing with Python
